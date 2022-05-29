@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm fengshanliu</h1>
+<h1 align="center">Hi 👋, I'm who?</h1>
 <h3 align="center">A passionate backend developer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uestc-lfs&label=Profile%20views&color=13953a&style=flat-square" alt="uestc-lfs" /> </p>
@@ -11,9 +11,6 @@
 
 - 👯 I’m looking to collaborate on **any Open - Source contribution**
 
-- 💬 Ask me about **c++,anns,hnswlib,faiss**
-
-- 📫 How to reach me **uestc_lfs@outlook.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
